@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ykertytsky
-- 👀 I’m interested in Front-End developing
+- 👀 I’m interested in Python developing
 - 🌱 I’m currently learning basics technologies
 <!---
 ykertytsky/ykertytsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
