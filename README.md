@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Yarema
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning JavaScript
+Why do programmers prefer dark mode?
 
-Milestones: ✅HTML ✅CSS ✅Git ✅Bootstrap 
+Because light attracts bugs!
