@@ -7,7 +7,6 @@
 ---
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,ts,react,mongo,figma,ps)](https://skillicons.dev)
 ---
-[![Kertytsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykertytsky&theme=dark&show_icons=true)](https://github.com/ykertytsky/github-readme-stats)
 
 ### 🧙 When i'm AFK
 ---
