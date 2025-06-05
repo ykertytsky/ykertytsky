@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 My skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,js,ts,react,mongo,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,supabase,tailwind,nextjs,docker,git)](https://skillicons.dev)
 ---
 
 ### 🧙 When i'm AFK
