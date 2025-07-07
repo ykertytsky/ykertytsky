@@ -1,7 +1,17 @@
 # Hello there, I'm Yarema 👋
 ---
+Currently navigating the beautiful chaos of software engineering in early-stage environments where speed matters more than polish. I move fast, break things (sometimes on purpose), and get features live daily. Startups don’t wait — and neither do I.
 
-🎓 I’m a proud IT & Business Analytics student at Ukrainian Catholic University, where I’m delving into the field of technology and business to craft innovative, meaningful projects and solve real-world challenges. My journey is all about learning 📖, creating 🖌️, and pushing boundaries🤜 — whether it’s wrestling with code that just won’t work, daydreaming about the next big tech breakthrough, teaming up with classmates to turn chaos into creativity, or finding clever ways to make life (and assignments) a bit easier.
+What drives me?
+- Building systems that scale brains, not just code
+- Intersection of AI, value and aesthetics. 
+- Turning abstract tech into tangible results (fast).
+
+Some people this problem-solving. For me, it’s pattern-searching in noisy systems.
+And yes, sometimes that noise is internal too - overthinking, second-guessing. But progress lives there. In the loop. In the reflection. In the next weird experiment.
+
+I’m deeply curious about how we think, build, and survive the next wave of tech acceleration.
+If you are too - let's talk
 
 ### 🧑‍💻 My skills
 ---
