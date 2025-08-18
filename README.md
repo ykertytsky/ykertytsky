@@ -15,7 +15,7 @@ If you are too - let's talk
 
 ### 🧑‍💻 My skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,supabase,tailwind,nextjs,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,supabase,tailwind,nextjs,nodejs,nestjs,postgres,mongodb,docker,git)](https://skillicons.dev)
 ---
 
 ### 🧙 When i'm AFK
