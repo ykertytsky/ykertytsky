@@ -18,9 +18,9 @@ If you are too - let's talk
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,supabase,tailwind,nextjs,nodejs,nestjs,postgres,mongodb,docker,git)](https://skillicons.dev)
 ---
 
-### 🧙 When i'm AFK
+### 🧙 Besides
 ---
-Beyond the code, I’m an avid world-builder for 🌎 D&D, a strategist in 🚀 Eve Online, and a tinkerer of side projects (ever tried automating your life in 10 different ways? 🤖). Let’s collaborate and create something extraordinary! ✨
+Deeply passionate about finance and applications of programmic/data-science skills in that field, productivity geek, minimalism lover and reader.✨
 
 
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/TheKotovski/)
