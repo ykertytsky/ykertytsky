@@ -1,27 +1,30 @@
-# Hello there, I'm Yarema 👋
----
-Currently navigating the beautiful chaos of software engineering in early-stage environments where speed matters more than polish. I move fast, break things (sometimes on purpose), and get features live daily. Startups don’t wait — and neither do I.
+# Yarema Kertytsky
 
-What drives me?
-- Building systems that scale brains, not just code
-- Intersection of AI, value and aesthetics. 
-- Turning abstract tech into tangible results (fast).
+Software engineer at [AiSDR](https://aisdr.com) (YC S23), studying IT & Business Analytics at UCU in Lviv.
 
-Some people this problem-solving. For me, it’s pattern-searching in noisy systems.
-And yes, sometimes that noise is internal too - overthinking, second-guessing. But progress lives there. In the loop. In the reflection. In the next weird experiment.
+I like building product, tooling, and small systems that remove annoying manual work. Lately that has meant a lot of TypeScript, product engineering, automation, and experiments with AI agents that can work with real context instead of starting from zero every time.
 
-I’m deeply curious about how we think, build, and survive the next wave of tech acceleration.
-If you are too - let's talk
+One version of that idea is [Friday](https://kertytsky.dev/work/friday-what-i-learned-from-building-personal-ai-assistant), my personal AI assistant built around Telegram, Obsidian, local tools, and the workflows I already use.
 
-### 🧑‍💻 My skills
----
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,supabase,tailwind,nextjs,nodejs,nestjs,postgres,mongodb,docker,git)](https://skillicons.dev)
----
+- Shipping product and infrastructure in early-stage environments
+- Interested in agentic systems, developer tooling, finance/data workflows, and AI-security-adjacent work
+- Usually happiest somewhere between messy real-world problems and clean interfaces
 
-### 🧙 Besides
----
-Deeply passionate about finance and applications of programmic/data-science skills in that field, productivity geek, minimalism lover and reader.✨
+[Website](https://kertytsky.dev/) · [LinkedIn](https://www.linkedin.com/in/yarema-kertytsky/) · [X](https://x.com/jeremykertytsky) · [Email](mailto:y.kertytsky@gmail.com)
 
+## Current focus
 
-[![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/TheKotovski/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/pmh0eqrj69rovpwdjk2e7jxs1?si=553a09ec6cc14d9f)
+- AI sales automation and product engineering at AiSDR
+- Personal AI workflows: Telegram + Obsidian + local tools + agents
+- Full-stack systems with TypeScript, React, Next.js, Node/NestJS, Postgres, Docker
+- Finance and analytics workflows where code beats spreadsheet archaeology
+
+## Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mongodb,supabase,tailwind,docker,git,python,go)](https://skillicons.dev)
+
+## Outside the editor
+
+Finance nerd, reader, productivity-system tinkerer, and occasional overbuilder of tools that should probably have been a checklist.
+
+If you are building something interesting around AI, systems, tooling, or startups — reach out.
